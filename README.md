@@ -1,4 +1,4 @@
-HI! I'm MAhmad. Here i uload some images with live links to check my projects which I work or designed , projects are built using the following stacks.
+Hi,  I'm MAhmad. Here i uploaded some images with live links to check my projects which I work or designed , projects are built using the following stacks.
 
 JavaScript (JS)
 Next.js
