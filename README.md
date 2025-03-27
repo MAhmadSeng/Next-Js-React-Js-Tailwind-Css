@@ -25,11 +25,13 @@ Live Website: [Project 1 Live Link](https://mcro.ai/)
 ![Project 1 Screenshot](./assets/mcroai.PNG)
 
 2. Agency Consultation
-Description: Do More with Agency.
+Description: A Powerful Service for Your Startup and do More with Agency. 
 
 
-Stack: HTML, CSS, SCSS, JS, Express, etc.
+Stack: HTML, CSS, SCSS, JS etc.
 Live Website: [Project 2 Live Link](https://agencymarket.netlify.app/)
+
+![Project 1 Screenshot](./assets/agency.PNG)
 
 
 3. Crosscheck
