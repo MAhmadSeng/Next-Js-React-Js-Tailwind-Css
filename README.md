@@ -42,6 +42,13 @@ Stack: ReactJs, MongoDB, SCSS, NodeJs.
 
 
 
+3. TextCounter PlayGround
+Description:Edit your Text with your own style.
+
+
+Stack: ReactJs, CSS
+
+![Project 1 Screenshot](./assets/textcounter.PNG)
 
 
 
