@@ -1,4 +1,5 @@
-Hi,  I'm MAhmad. Here i uploaded some images with live links to check my projects which I work or designed , projects are built using the following stacks.
+Hi,  I'm MAhmad. Here I uploaded some images with live links to check my projects.
+You can check my portfolio here:
 
 JavaScript (JS)
 Next.js
@@ -45,7 +46,7 @@ Stack: ReactJs, MongoDB, SCSS, NodeJs.
 
 
 3. TextCounter PlayGround
-Description:Edit your Text with your own style.
+Edit your Text with your own style.
 
 
 Stack: ReactJs, CSS
