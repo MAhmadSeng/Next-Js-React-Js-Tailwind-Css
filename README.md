@@ -16,7 +16,7 @@ WordPress
 🌐 Projects Links & Screenshots
 Here is a some of my projects with live links and screenshots:
 
-1. MCRO AI
+1. MCRO
 Description: MCRO is more than just a tool—it’s our passion project. We’ve designed it to make your life easier by helping you manage your TikTok promotions, affiliates, and strategies without all the usual headaches. We’re all about giving you the tools you need to scale, collaborate, and crush it online.
 
 
@@ -46,7 +46,7 @@ Stack: ReactJs, MongoDB, SCSS, NodeJs.
 
 
 3. TextCounter PlayGround
-Edit your Text with your own style.
+Description: Edit your Text with your own style.
 
 
 Stack: ReactJs, CSS
