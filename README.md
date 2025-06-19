@@ -1,5 +1,4 @@
-Hi,  I'm MAhmad. Here I uploaded some images with live links to check my projects.
-You can check my portfolio here:
+Hello! 
 
 JavaScript (JS)
 Next.js
@@ -8,9 +7,13 @@ HTML
 CSS
 SCSS
 Tailwind CSS
+Shadcn
 Express
 MongoDB
+SQL
+NodeJs
 WordPress 
+GraphQl
 
 
 🌐 Projects Links & Screenshots
@@ -45,7 +48,7 @@ Stack: ReactJs, MongoDB, SCSS, NodeJs.
 
 
 
-3. TextCounter PlayGround
+4. TextCounter PlayGround
 Description: Edit your Text with your own style.
 
 
@@ -54,7 +57,13 @@ Stack: ReactJs, CSS
 ![Project 1 Screenshot](./assets/textcounter.PNG)
 
 
+5. Blogs
+Description: Blogs WebApp 
 
+
+Stack: Nextjs, Tailwind CSS, Mongodb, Reactjs etc.
+
+![Project 1 Screenshot](./assets/Techiblogs.PNG)
 
 📝 License
 Distributed under the MIT License. See LICENSE for more information.
