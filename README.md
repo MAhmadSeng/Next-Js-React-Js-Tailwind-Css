@@ -24,7 +24,7 @@ Description: MCRO is more than just a tool—it’s our passion project. We’ve
 
 
 Stack: React, Tailwind CSS, MongoDB, NextJs etc.
-Live Website: [Project 1 Live Link]()
+
 
 ![Project 1 Screenshot](./assets/mcroai.PNG)
 
@@ -33,7 +33,7 @@ Description: A Powerful Service for Your Startup and do More with Agency.
 
 
 Stack: HTML, CSS, SCSS, JS etc.
-Live Website: [Project 2 Live Link]()
+
 
 ![Project 1 Screenshot](./assets/agency.PNG)
 
